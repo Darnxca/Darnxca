@@ -63,6 +63,8 @@ hobbies: ["Gaming", "Manga", "Anime", "Cook"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" height="40" alt="notion logo"  />
 </div>
 
 ###
