@@ -2,10 +2,31 @@
 <!-- Header di sauluto -->
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=200)
 
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: "Carmine D'Angelo"
+located_in: "Montoro (AV), ITALY"
+education:
+    - "Master's Degree in Computer Science with a specialization in IT security"
+    - "Bachelor's Degree in Computer Science"
+fields_of_interests:
+    - "Web development"
+    - "Mobile development"
+    - "Cybersecurity"
+    - "Penetration testing"
+hobbies: ["Gaming", "Manga", "Anime", "Cook"]
+```
+ 
+
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Darnxca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"  alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darnxca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="195" alt="languages graph" />
 </div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darnxca&theme=dracula&count_private=true&inlcude_all_commits=true) 
+
 
 <img src="https://raw.githubusercontent.com/Darnxca/Darnxca/output/snake.svg" alt="Snake animation" />
 
