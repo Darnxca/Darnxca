@@ -3,9 +3,11 @@
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=200)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darnxca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darnxca&locale=en&hide_title=false&layout=compact&langs_count=5&theme=dark&hide_border=false" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Darnxca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darnxca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="195" alt="languages graph" />
 </div>
+
+<img src="https://raw.githubusercontent.com/Darnxca/Darnxca/output/snake.svg" alt="Snake animation" />
 
 <!--
 **Darnxca/Darnxca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
