@@ -1,8 +1,11 @@
 
 <!-- Header di sauluto -->
-![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️%20I'm%20Carmine%20D'Angelo&animation=fadeIn&type=waving&color=gradient&height=200)
+![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=200)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darnxca&show_icons=true&theme=dark)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darnxca&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Darnxca&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Darnxca&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
