@@ -1,7 +1,8 @@
 
-
+<!-- Header di sauluto -->
 ![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=200)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Darnxca&show_icons=true&theme=radical)
 
 <!--
 **Darnxca/Darnxca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
